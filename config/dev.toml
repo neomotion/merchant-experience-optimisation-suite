@@ -1,0 +1,12 @@
+[app]
+    app_env = 'dev'
+    git_commit_hash = ''
+    hostname = ''
+    port = ''
+    service_name = 'beta-users-ai-tester'
+
+[logger]
+    level = 'debug'
+
+[service]
+# placeholder for config for future api service
